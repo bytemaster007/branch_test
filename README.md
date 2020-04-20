@@ -27,4 +27,6 @@
 4. 开发对应的功能切换到对应的分支上进行开发
     + 开发登录功能，切换到 feature-login分支上开发
         + `$ git checkout feature-login`
-    
+    + 开发list 功能，切换到 feature-list 分支上进行开发
+        + `$ git checkout feature-list`
+5. 开发完后进行分支合并
